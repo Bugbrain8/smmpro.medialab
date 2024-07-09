@@ -1,0 +1,47 @@
+<yml_catalog date="2024-07-09 12:10">
+<shop>
+<name>«Лаборатория медиа»/name>
+<company>АНО «Лаборатория медиа»</company>
+<url>https://smmpro.medialab.team</url>
+<email>INFO@MEDIALAB.TEAM</email>
+<picture>https://medialab.team/static/media/logo-black.f487614ffa7eac6a2e28.png</picture>
+<description>Поддерживаем блогеров, обучаем медийщиков, развиваем региональные контент-проекты, готовим кадры для креативных индстрий</description>
+<currencies>
+<currency id="RUR" rate="1"/>
+</currencies>
+<categories>
+<category id="460117155232">All</category>
+</categories>
+<offers>
+<offer id="788155015022">
+<name>Тариф «Базовый»</name>
+<description>34 урока, 8 методических материалов, сертификат о прохождении онлайн курса по SMM</description>
+<url>https://smmpro.medialab.team/tproduct/788155015022-tarif-bazovii</url>
+<price>15000.00</price>
+<currencyId>RUR</currencyId>
+<param name="Цена по скидке">12000</param>
+<param name="Тип обучения">Курс</param>
+<categoryId>460117155232</categoryId>
+</offer>
+<offer id="155793334722">
+<name>Тариф «PRO»</name>
+<description>14 методических материалов, 13 блоков, Вебинары с экспертами, Сертификат с лицензией</description>
+<url>https://smmpro.medialab.team/tproduct/155793334722-tarif-pro</url>
+<price>40000.00</price>
+<currencyId>RUR</currencyId>
+<param name="Цена по скидке">32000</param>
+<param name="Тип обучения">Курс</param>
+<categoryId>460117155232</categoryId>
+</offer>
+<offer id="4432064520222">
+<name>Тариф «PRO+»</name>
+<description>14 методических материалов, 13 блоков, Вебинары с экспертами, Сертификат с лицензией</description>
+<url>https://smmpro.medialab.team/tproduct/443206452022-tarif-pro</url>
+<price>98000.00</price>
+<currencyId>RUR</currencyId>
+<param name="Тип обучения">Курс</param>
+<categoryId>460117155232</categoryId>
+</offer>
+</offers>
+</shop>
+</yml_catalog>
