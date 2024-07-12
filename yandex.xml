@@ -24,7 +24,9 @@
 <param name="Тип обучения">Курс</param>
 <categoryId>460117155232</categoryId>
 <param name="Продолжительность">Не ограничена</param>
-<param name="План">34 урока, 8 методических материалов</param>
+<param name="Продолжительность">Не ограничена</param>
+ <param name="План" order="1" unit=" " hours=" ">
+</param>
 </offer>
 <offer id="155793334722">
 <name>Тариф «PRO»</name>
@@ -35,8 +37,9 @@
 <param name="Цена по скидке">32000</param>
 <param name="Тип обучения">Курс</param>
 <categoryId>460117155232</categoryId>
-<param name="Продолжительность">Не ограничена</param>
-<param name="План">14 методических материалов, 13 блоков</param>
+  <param name="Продолжительность">Не ограничена</param>
+ <param name="План" order="2" unit=" " hours=" ">
+</param>
 </offer>
 <offer id="4432064520222">
 <name>Тариф «PRO+»</name>
@@ -47,7 +50,8 @@
 <param name="Тип обучения">Курс</param>
 <categoryId>460117155232</categoryId>
 <param name="Продолжительность">Не ограничена</param>
-<param name="План">61 урок, 14 методических материалов, 13 блоков</param>
+ <param name="План" order="3" unit=" " hours=" ">
+</param>
 </offer>
 </offers>
 </shop>
