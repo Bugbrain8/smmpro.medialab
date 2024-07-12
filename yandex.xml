@@ -24,7 +24,7 @@
 <param name="Тип обучения">Курс</param>
 <categoryId>460117155232</categoryId>
 <param name="Продолжительность">Не ограничена</param>
-<param name="План"></param>
+<param name="План">34 урока, 8 методических материалов</param>
 </offer>
 <offer id="155793334722">
 <name>Тариф «PRO»</name>
@@ -36,18 +36,18 @@
 <param name="Тип обучения">Курс</param>
 <categoryId>460117155232</categoryId>
 <param name="Продолжительность">Не ограничена</param>
-<param name="План"></param>
+<param name="План">14 методических материалов, 13 блоков</param>
 </offer>
 <offer id="4432064520222">
 <name>Тариф «PRO+»</name>
-<description>14 методических материалов, 13 блоков, Вебинары с экспертами, Сертификат с лицензией</description>
+<description>61 урок, 14 методических материалов, 13 блоков, Вебинары с экспертами, Сертификат с лицензией, Закрытый чат с учениками и командой Лаборатории медиа, Гарантированная практика на реальных проектах</description>
 <url>https://smmpro.medialab.team/tproduct/443206452022-tarif-pro</url>
 <price>98000.00</price>
 <currencyId>RUR</currencyId>
 <param name="Тип обучения">Курс</param>
 <categoryId>460117155232</categoryId>
 <param name="Продолжительность">Не ограничена</param>
-<param name="План"></param>
+<param name="План">61 урок, 14 методических материалов, 13 блоков</param>
 </offer>
 </offers>
 </shop>
