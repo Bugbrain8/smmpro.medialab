@@ -23,7 +23,7 @@
 <param name="Цена по скидке">12000</param>
 <param name="Тип обучения">Курс</param>
 <categoryId>460117155232</categoryId>
-<param name="Продолжительность"></param>
+<param name="Продолжительность">Не ограничена</param>
 <param name="План"></param>
 </offer>
 <offer id="155793334722">
@@ -35,7 +35,7 @@
 <param name="Цена по скидке">32000</param>
 <param name="Тип обучения">Курс</param>
 <categoryId>460117155232</categoryId>
-<param name="Продолжительность"></param>
+<param name="Продолжительность">Не ограничена</param>
 <param name="План"></param>
 </offer>
 <offer id="4432064520222">
@@ -46,7 +46,7 @@
 <currencyId>RUR</currencyId>
 <param name="Тип обучения">Курс</param>
 <categoryId>460117155232</categoryId>
-<param name="Продолжительность"></param>
+<param name="Продолжительность">Не ограничена</param>
 <param name="План"></param>
 </offer>
 </offers>
